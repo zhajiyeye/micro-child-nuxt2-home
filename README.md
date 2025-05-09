@@ -1,0 +1,1 @@
+# micro-child-nuxt2-home
